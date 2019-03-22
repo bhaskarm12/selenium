@@ -21,6 +21,7 @@ public class LoginPageTest extends TestBase{
 	@BeforeMethod
 	public void setUp() {
 		
+		
 		initialization();
 		loginpage=new LoginPage();
 	}

@@ -8,6 +8,7 @@ import com.crm.qa.base.TestBase;
 
 public class LoginPage extends TestBase{
 
+	
 	@FindBy(name="email")
 	WebElement username;
 	@FindBy(name="password")

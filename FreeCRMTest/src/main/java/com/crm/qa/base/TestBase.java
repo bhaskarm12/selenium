@@ -35,6 +35,7 @@ public class TestBase {
 	
 	public static void initialization() {
 		
+		
 		String browser=prop.getProperty("browser");
 		
 		if(browser.equals("chrome")) {
